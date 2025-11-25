@@ -1,120 +1,100 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
+  title: "Ariundalai Camp - Mongolia, Khuvsgul Lake"
   description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+title: "Ariundalai Camp"
+description: "Situated 500 meters from Lake Khuvsgul and 1 km from the Sukhbaatar ship dock, Khuvsgul Ariundalai Camp is designed for families seeking a peaceful and comfortable retreat. The camp features cozy houses with electric heating."
 hero:
   links:
-    - label: "Use this template"
-      to: https://github.com/nuxt-ui-templates/portfolio
+    - label: "+976 9618-8888"
       color: "neutral"
   images:
-    - src: /hero/random-1.avif
-      alt: Random Image 1
-    - src: /hero/random-2.avif
-      alt: Random Image 2
-    - src: /hero/random-3.avif
-      alt: Random Image 3
-    - src: /hero/random-4.avif
-      alt: Random Image 4
-    - src: /hero/random-5.avif
-      alt: Random Image 5
-    - src: /hero/random-6.avif
-      alt: Random Image 6
-    - src: /hero/random-7.avif
-      alt: Random Image 7
-    - src: /hero/random-8.avif
-      alt: Random Image 8
-    - src: /hero/random-9.avif
-      alt: Random Image 9
+    - src: /hero/ariundalai-entry.jpg
+      alt: Ariundalai Entry
+    - src: /hero/ariundalai-main-house.jpg
+      alt: Khuvsgul Main House
+    - src: /hero/kids-toy.png
+      alt: Khuvsgul Kids Toy
+    - src: /hero/ariundalai-house-outside.jpg
+      alt: Khuvsgul House Outside
+    - src: /hero/ariundalai-tech.jpg
+      alt: Ariundalai Tek
+    - src: /hero/ariundalai-outside.jpg
+      alt: Khuvsgul Outside View
+    - src: /hero/ariundalai-window-inside.jpg
+      alt: Khuvsgul Window Inside
+    - src: /hero/ariundalai-house-outside-people.jpg
+      alt: Khuvsgul House Outside with People
 about:
-  title: "About Me"
+  title: "About us"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    Located 500 meters from Lake Khuvsgul and 1 km from the Sukhbaatar ship dock, Ariundalai Camp offers a peaceful retreat in one of Mongolia's most beautiful settings. Our camp features 4 cozy mini houses with electric heating, ensuring comfort throughout your stay. We provide modern facilities including 2 toilet buildings - one outdoor facility and one indoor building equipped with 3 modern toilets and showers. Whether you're seeking adventure or relaxation, Ariundalai Camp is the perfect base for exploring the pristine beauty of Lake Khuvsgul.
 experience:
-  title: Work Experience
+  title: "Experience"
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - date: "Since 2017"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
-      company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
-        color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
-      company:
-        name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
+        name: Ariundalai Camp
+        logo: "/hero/ariundalai-logo.jpg"
+        color: "#07b6ed"
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "Our family stayed at Ariundalai Camp for a week in July, and it exceeded all our expectations. The heated houses were incredibly comfortable, and the location right by Lake Khuvsgul was breathtaking. The staff went above and beyond to make our stay memorable, arranging horseback riding and helping us connect with local culture. We can't wait to return!"
     author:
-      name: 'Sarah Chen'
-      description: 'Product Director at Bloom Finance'
+      name: "David & Lisa Martinez"
+      description: "Family travelers from Spain"
       avatar:
-        src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
+        src: "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80"
+        srcset: "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x"
+  - quote: "Ariundalai Camp offers the perfect balance of adventure and comfort. After days of exploring Mongolia's wilderness, coming back to a warm, cozy house with lake views was pure bliss. The food was delicious, the facilities were clean, and the staff's hospitality made us feel like family. This is Mongolia at its best!"
     author:
-      name: 'Michael Rodriguez'
-      description: 'Co-founder of Wavelength Music'
+      name: "Sophie Chen"
+      description: "Solo traveler from Singapore"
       avatar:
-        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Emma stands out in her ability to translate complex sustainability data into intuitive interfaces. Her work on EcoTrack wasn't just visually stunning—it fundamentally changed how our users interact with environmental information. She approaches each problem with both creativity and analytical rigor, which is exactly what we needed."
+        src: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80"
+        srcset: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x"
+  - quote: "We've traveled to many remote locations, but Ariundalai Camp stands out for its thoughtful amenities and stunning natural setting. The electric heating made cool evenings comfortable, and waking up to sunrise over Lake Khuvsgul was magical. The camp's commitment to sustainable tourism and supporting local communities impressed us greatly."
     author:
-      name: 'Dr. Aisha Johnson'
-      description: 'Chief Innovation Officer at GreenTech Solutions'
+      name: "James & Emma Wilson"
+      description: "Adventure photographers from Australia"
       avatar:
-        src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+        src: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80"
+        srcset: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x"
 blog:
-  title: "Latest Articles"
-  description: "Some of my recent thoughts"
+  title: "Latest Articles about Khuvsgul Ariundalai Camp"
+  description: "Articles and updates about the Khuvsgul Ariundalai Camp experience, nature, and travel tips."
 faq:
   title: Frequently Asked Questions
-  description: Answers to common questions about my process and services.
+  description: Everything you need to know about staying at Ariundalai Camp.
   categories:
-    - title: Services & Process
+    - title: Services & Amenities
       questions:
-        - label: What services do you offer?
+        - label: What services and amenities do you offer?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
-        - label: What is your design process like?
+            We provide campfire facilities, daily breakfast service, traditional Mongolian Khorkhog (meat cooked with heated rocks and vegetables), kitchen rental for self-catering, meeting and gathering spaces, and can arrange horseback riding experiences. We also help arrange boat trips to Khusliin Khad (a sacred rock formation on the lake).
+        - label: What are the accommodation facilities?
           content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
-        - label: Do you work with startups?
+            Our camp features 4 cozy mini houses equipped with electric heating for your comfort. We have 2 toilet facilities - one outdoor toilet and one indoor building with 3 modern toilets and showers, ensuring convenience for all guests.
+        - label: Can I cook my own meals?
           content: |
-            Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
-    - title: Pricing & Timelines
+            Yes! We offer kitchen rental for guests who prefer to prepare their own meals. We also provide breakfast and can prepare traditional Khorkhog upon request.
+        - label: What activities can you arrange?
+          content: |
+            We can help arrange horseback riding tours to explore the beautiful Lake Khuvsgul area, and organize boat trips to Khusliin Khad, a sacred rock formation that's a must-see destination on the lake. We also provide campfire facilities for cozy evenings under the stars.
+    - title: Booking & Season
       questions:
-        - label: How much does a project typically cost?
+        - label: When is the camp open?
           content: |
-            Project costs vary based on scope, complexity, features, and timeline. For comprehensive UX/UI design and front-end development projects, my engagements typically start around $5,000, with average projects ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
-        - label: What are your payment terms?
+            Ariundalai Camp operates from June to September during the summer season, which is the best time to enjoy Lake Khuvsgul's natural beauty. We also open during winter for the special Ice Festival ceremony on the frozen lake, offering a unique winter experience.
+        - label: How do I make a reservation?
           content: |
-            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
-        - label: How long does a typical project take?
+            You can contact us directly at +976 9618-8888 to make a reservation or ask any questions about your stay. We recommend booking in advance, especially for July and August peak season.
+        - label: Where exactly is the camp located?
           content: |
-            Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
-        - label: Do you offer retainers or ongoing support?
-          content: |
-            Yes, for clients needing ongoing design support, feature development, or maintenance, I offer monthly retainer options tailored to specific needs. Let's discuss if this is something you're interested in.
-    - title: About Me
+            Ariundalai Camp is located 500 meters from the shores of Lake Khuvsgul and 1 km from the Sukhbaatar ship dock, providing easy access to the lake while maintaining a peaceful, natural setting.
+    - title: About the Camp
       questions:
-        - label: What do you enjoy most about your work?
+        - label: What makes Ariundalai Camp special?
           content: |
-            I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
-        - label: What are your hobbies outside of work?
+            Our camp combines authentic Mongolian hospitality with modern comfort. We offer heated mini houses, traditional food experiences like Khorkhog, and help guests connect with the natural beauty and culture of Lake Khuvsgul. Our location provides the perfect balance of accessibility and tranquility.
+        - label: Is the camp suitable for families?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            Absolutely! Ariundalai Camp is designed with families in mind. Our heated houses provide comfort for all ages, and we offer various activities suitable for family enjoyment, including campfires, traditional meals, and organized excursions.

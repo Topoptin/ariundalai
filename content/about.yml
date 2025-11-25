@@ -1,27 +1,46 @@
-title: About Me
-description: Learn more about my journey as a Boston-based UX/UI Designer & Front-End Developer, my design philosophy, and my passion for crafting intuitive digital experiences.
+title: About Ariundalai Camp
+description: Discover Ariundalai Camp, your peaceful retreat at Lake Khuvsgul. Learn about our facilities, location, and what makes us the perfect base for exploring Mongolia's Blue Pearl.
 content: |
-  Hi, I'm **Emma Thompson**, a UX/UI Designer and Front-End Developer based right here in Boston. For the past six years, I've been immersed in the world of digital product creation, focusing on building experiences that are not just functional, but genuinely intuitive and engaging for users.
+  Welcome to **Ariundalai Camp**, your gateway to experiencing the pristine beauty of Lake Khuvsgul, Mongolia's largest freshwater lake and one of the most spectacular natural destinations in Asia.
 
-  My path started at **Boston University**, where I earned a degree in Interactive Design. It was there I discovered my dual passion for the visual language of design and the logical puzzle of code. Since then, I've honed my skills in both areas, believing that the best digital products are born from a deep understanding of both aesthetics and implementation.
+  Established in **2017**, Ariundalai Camp has been welcoming families and travelers seeking an authentic Mongolian experience combined with modern comfort. Our camp is perfectly positioned just 500 meters from the crystal-clear shores of Lake Khuvsgul and 1 kilometer from the historic Sukhbaatar ship dock.
 
-  ### My Design Philosophy
+  ### Our Facilities
 
-  My design philosophy is rooted in **empathy** and **problem-solving**. I believe great design starts with understanding the 'why' – the user's needs, motivations, and pain points. I use research, iterative prototyping (often with tools like Figma), and user testing to ensure the solutions I build are truly effective.
+  Ariundalai Camp features **4 cozy mini houses** equipped with electric heating to ensure your comfort even during cool mountain evenings. Each house provides a warm, welcoming retreat after a day of exploring the lake and surrounding wilderness.
 
-  I strive to create interfaces that feel effortless, where functionality and beauty work hand-in-hand. Whether I'm crafting pixel-perfect UIs or writing clean Vue.js/Nuxt.js code, my focus is always on creating value for the end-user.
+  We maintain **2 toilet facilities** for our guests' convenience - one outdoor facility and one modern indoor building equipped with 3 toilets and showers. Our facilities are designed to provide comfort while respecting the natural environment.
 
-  ### What Drives Me
+  ### Our Services
 
-  What keeps me excited about this work is the constant learning and the challenge of translating complex ideas into simple, elegant solutions. There's nothing more rewarding than seeing a design come to life and knowing it's making someone's digital interaction easier or more enjoyable.
+  At Ariundalai Camp, we offer a range of services to make your stay memorable:
 
-  ### Beyond the Screen
+  - **Traditional Campfire Experiences** - Gather around the fire under starlit skies
+  - **Breakfast Service** - Start your day with a hearty meal
+  - **Khorkhog** - Experience authentic Mongolian cuisine with our traditional dish of meat cooked with heated rocks and vegetables
+  - **Kitchen Rental** - Prepare your own meals if you prefer
+  - **Meeting Spaces** - Ideal for group gatherings and celebrations
+  - **Activity Arrangements** - We help organize horseback riding tours and boat trips to Khusliin Khad
 
-  When I'm not designing or coding, you might find me exploring Boston's latest coffee shops, hiking nearby trails, or occasionally contributing to open-source projects.
+  ### Our Season
 
-  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
+  We welcome guests from **June to September**, when Lake Khuvsgul reveals its full beauty under warm summer skies. We also open during winter for the spectacular **Ice Festival**, offering a unique opportunity to experience the lake's frozen majesty.
+
+  ### Our Location
+
+  The western shore of Lake Khuvsgul offers some of the most breathtaking views in Mongolia. Our camp's location provides the perfect balance - close enough to the lake for easy access, yet peaceful and surrounded by pristine nature.
+
+  We invite you to experience the magic of Lake Khuvsgul with us. [Contact us](tel:+97696188888) to plan your unforgettable adventure!
 images:
-  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My coffee workspace
-  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My trip to Tokyo
+  - src: /hero/ariundalai-house-outside.jpg
+    alt: Ariundalai Camp houses
+  - src: /hero/ariundalai-main-house.jpg
+    alt: Ariundalai Camp Main House
+  - src: /hero/ariundalai-outside.jpg
+    alt: Ariundalai Outside Tent
+  - src: /hero/ariundalai-toilet.jpg
+    alt: Ariundalai Camp Toilet Facility
+  - src: /hero/ariundalai-entry.jpg
+    alt: Main House Dining Area
+  - src: /hero/ariundalai-tech.jpg
+    alt: Ariundalai Camp Tek
